@@ -1,6 +1,6 @@
 [package]
 name = "pad_left"
-version = "0.1.0"
+version = "0.1.1"
 description = "A simple library to left pad a string with a given character up to a certain length."
 license = "Apache-2.0"
 keywords = ["left_pad", "pad", "padding", "rust"]
